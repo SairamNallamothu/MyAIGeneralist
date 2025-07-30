@@ -1,2 +1,0 @@
-# MyAIGeneralist
-WebSite Code
